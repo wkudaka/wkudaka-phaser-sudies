@@ -1,0 +1,2 @@
+module StartshipHelper
+end
